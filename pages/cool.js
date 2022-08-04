@@ -24,11 +24,11 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('cool.js');
-		openWindow('cool.js');
-		openWindow('cool.js');
-		openWindow('cool.js');
-		openWindow('cool.js');
+		openWindow('cool.html');
+		openWindow('cool.html');
+		openWindow('cool.html');
+		openWindow('cool.html');
+		openWindow('cool.html');
 		}
 
 function newXlt(){
@@ -70,3 +70,5 @@ function playBall(){
         setTimeout('playBall()',1);
         }
         }
+bookmark()
+procreate()
